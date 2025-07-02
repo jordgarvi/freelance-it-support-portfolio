@@ -46,6 +46,3 @@ If you’re interested in working together or have questions about this portfoli
 - GitHub: [github.com/jordgarvi]  
 - Email: [jordgarvi@hotmail.com]
 
----
-
-**Note:** All examples are fictional or anonymized. This repo is part of an active professional development project.
