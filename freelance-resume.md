@@ -1,7 +1,7 @@
 # Jordan Bradfield
 
 **Phone:** +44 7729 484582  
-**Email:** jordgarvi@hotmail.com  
+**Email:** jordgarvi.it@gmail.com  
 **LinkedIn:** [linkedin.com/in/jordan-bradfield](https://linkedin.com/in/jordan-bradfield)  
 **GitHub:** [github.com/jordgarvi](https://github.com/jordgarvi)  
 
