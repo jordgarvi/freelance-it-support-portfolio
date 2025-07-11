@@ -24,10 +24,11 @@ This portfolio highlights the freelance IT support services I offer, with real w
 
 ## 📂 What's in this Repo
 
-- `examples/` – Simulated task reports, ticket-style documentation, or client setups
-- `resume/` – Freelance IT resume in Markdown and downloadable PDF
-- `flyer/` – One page service flyer for clients or platforms like Fiverr/LinkedIn
-- `README.md` – This overview
+- [`examples/`](https://github.com/jordgarvi/real-world-it-ticket-simulation-lab) – Simulated task reports, ticket-style documentation, or client setups
+- [`resume/`](./freelance-resume.md) – Freelance IT resume in Markdown and downloadable PDF
+- [`flyer/`](./service-flyer.pdf) – One page service flyer for clients or platforms.
+- [`README.md`](./README.md) – This overview.
+
 
 ---
 
