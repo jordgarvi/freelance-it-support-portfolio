@@ -77,7 +77,7 @@ Self directed technical projects designed to build practical IT skills and real 
 - Configured and tested DHCP, DNS, NAT, and firewall rules in isolated virtual environments
 - Set up and managed Active Directory, including user/group policies and login restrictions
 - Performed OS installations, remote access configuration, and troubleshooting simulations
-- Documented labs, issues, and resolutions in GitHub repo: [freelance-it-support-portfolio](https://github.com/jordgarvi/freelance-it-support-portfolio)
+- Documented labs, issues, and resolutions in GitHub repo: [real-world-it-ticket-simulation-lab](https://github.com/jordgarvi/real-world-it-ticket-simulation-lab)
 
 
 **Healthcare Assistant – NHS Professionals**  
